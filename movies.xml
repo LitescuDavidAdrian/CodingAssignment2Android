@@ -5,7 +5,7 @@
         <profit>829895144</profit>
         <movieGenre>Sci-Fi</movieGenre>
         <releaseDate>2010-07-16</releaseDate>
-        <platform>Cinema</platform>
+        <platform>Netflix</platform>
     </movie>
 
     <movie>
@@ -13,7 +13,7 @@
         <profit>677471339</profit>
         <movieGenre>Sci-Fi</movieGenre>
         <releaseDate>2014-11-07</releaseDate>
-        <platform>Streaming</platform>
+        <platform>Netflix</platform>
     </movie>
 
     <movie>
@@ -21,7 +21,7 @@
         <profit>1004558444</profit>
         <movieGenre>Action</movieGenre>
         <releaseDate>2008-07-18</releaseDate>
-        <platform>Blu-ray</platform>
+        <platform>Amazon Prime</platform>
     </movie>
 
     <movie>
@@ -29,6 +29,6 @@
         <profit>433000000</profit>
         <movieGenre>Adventure</movieGenre>
         <releaseDate>2021-10-22</releaseDate>
-        <platform>Cinema</platform>
+        <platform>HBO GO</platform>
     </movie>
 </movies>
